@@ -1,0 +1,3 @@
+1) ^hangman (to play hangman) | ,hangman , ehangman , Ehangman 
+2) ^end (to end the game) |  ,end , eend , Eend 
+3) ^hint (to get a hint) |  ,hint , ehint , Ehint 
