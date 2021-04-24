@@ -1,0 +1,5 @@
+discord.py
+random_word 
+PyYAML 
+PyDictionary
+random
