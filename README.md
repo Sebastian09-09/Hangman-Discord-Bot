@@ -2,11 +2,11 @@
 Dicord bot to play Hangman
 
 ## Dependencies 
-PyDictionary 
-random_word
-PyYAML
-random 
-and obviously discord.py
+- PyDictionary 
+- random_word
+- PyYAML
+- random 
+- discord.py
 
 ## Setting up
 enter your bots token in .env file with out any quotaion or , replace 
