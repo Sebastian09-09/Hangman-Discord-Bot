@@ -1,5 +1,5 @@
 #Error: The Following Error occured: list index out of range   
-#the bot shows this error it PyDictionary isnt able to find definatins for the word
+#the bot shows this error if PyDictionary isnt able to find definations for the word
 
 import discord 
 from discord.ext import commands
